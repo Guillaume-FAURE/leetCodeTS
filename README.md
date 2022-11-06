@@ -11,9 +11,9 @@ uses of the programs.
 
 ## Challenges score:
 
-|              Name of the challenge               |    Date    |    Runtime     |     Memory      |  Language  |
-| :----------------------------------------------: | :--------: | :------------: | :-------------: | :--------: |
-|                    1. Two Sum                    | 11/05/2022 | 116ms (73.58%) | 44.4MB (82.00%) | TypeScript |
-|                2. Add Two Number                 | 11/06/2022 | 187ms (56.50%) | 48.1MB (67.14%) | TypeScript |
-| 3. Longest Substring Without Repeating Character | 11/06/2022 | 130ms (87.54%) | 48.4MB (64.61%) | TypeScript |
-|                  15. Three Sum                   | 11/05/2022 | 138ms (98.60%) | 44.4MB (64.38%) | TypeScript |
+|              Name of the challenge               | Difficulty |    Date    |    Runtime     |     Memory      |  Language  |
+| :----------------------------------------------: | :--------: | :--------: | :------------: | :-------------: | :--------: |
+|                    1. Two Sum                    |    Easy    | 11/05/2022 | 116ms (73.58%) | 44.4MB (82.00%) | TypeScript |
+|                2. Add Two Number                 |   Medium   | 11/06/2022 | 187ms (56.50%) | 48.1MB (67.14%) | TypeScript |
+| 3. Longest Substring Without Repeating Character |   Medium   | 11/06/2022 | 130ms (87.54%) | 48.4MB (64.61%) | TypeScript |
+|                  15. Three Sum                   |   Medium   | 11/05/2022 | 138ms (98.60%) | 44.4MB (64.38%) | TypeScript |
