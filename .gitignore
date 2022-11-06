@@ -1,4 +1,4 @@
 node_modules
 tsBuildInfo
-!**/.gitkeep
-dist
+!.gitkeep
+/dist/*
