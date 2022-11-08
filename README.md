@@ -23,4 +23,5 @@ uses of the programs.
 |               6. Zigzag Conversion               |   Medium   | 11/08/2022 |  96ms (94.73%)  | 47.7MB (65.82%) | TypeScript |
 |                7. Reverse Integer                |   Medium   | 11/08/2022 |  69ms (98.94%)  | 45.1MB (37.53%) | TypeScript |
 |               8. String to Integer               |   Medium   | 11/08/2022 | 115ms (74.02%)  | 44.2MB (98.77%) | TypeScript |
+|               9. Palindrome Number               |    Easy    | 11/08/2022 | 298ms (72.06%)  | 51.9MB (56.88%) | TypeScript |
 |                  15. Three Sum                   |   Medium   | 11/05/2022 | 138ms (98.60%)  | 44.4MB (64.38%) | TypeScript |
