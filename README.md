@@ -21,4 +21,5 @@ uses of the programs.
 |      5. Longest Palindromic substring (bis)      |   Medium   | 11/07/2022 | 2485ms (15.57%) | 49.3MB (46.03%) | TypeScript |
 |      5. Longest Palindromic substring (ter)      |   Medium   | 11/07/2022 | 5617ms (9.50%)  | 52.2MB (23.33%) | TypeScript |
 |               6. Zigzag Conversion               |   Medium   | 11/08/2022 |  96ms (94.73%)  | 47.7MB (65.82%) | TypeScript |
+|                7. Reverse Integer                |   Medium   | 11/08/2022 |  69ms (98.94%)  | 45.1MB (37.53%) | TypeScript |
 |                  15. Three Sum                   |   Medium   | 11/05/2022 | 138ms (98.60%)  | 44.4MB (64.38%) | TypeScript |
