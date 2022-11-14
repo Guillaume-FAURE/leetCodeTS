@@ -27,4 +27,5 @@ uses of the programs.
 |              10. Regular Expression              |    Hard    | 11/08/2022 | 262ms (32.60%)  | 45.5MB (60.77%) | TypeScript |
 |          11. Container with Most Water           |   Medium   | 14/08/2022 | 134ms (59.91%)  | 51.1MB (78.57%) | TypeScript |
 |               12. Integer to Roman               |   Medium   | 14/08/2022 | 231ms (58.43%)  | 48.5MB (68.66%) | TypeScript |
+|               13. Roman to Integer               |    Easy    | 14/08/2022 | 232ms (57.68%)  | 47.5MB (87.54%) | TypeScript |
 |                  15. Three Sum                   |   Medium   | 11/05/2022 | 138ms (98.60%)  | 44.4MB (64.38%) | TypeScript |
