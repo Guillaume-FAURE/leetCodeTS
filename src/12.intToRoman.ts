@@ -4,7 +4,6 @@ function intToRoman(num: number): string {
     for (let i = num.toString().length - 1; i >= 0; i -= 1) {
         const currentNum = Math.floor(num / 10 ** i);
         num -= currentNum * 10 ** i;
-        console.log(`i: ${i}, currentNum : ${currentNum}`);
         if (currentNum <= 3) {
             for (let j = 1; j <= currentNum; j += 1) {
                 romanNum += romanPower[i * 2];
@@ -23,14 +22,12 @@ function intToRoman(num: number): string {
             romanNum += romanPower[i * 2];
             romanNum += romanPower[i * 2 + 2];
         }
-        console.log(`romanNum : ${romanNum}`);
-        console.log(`num: ${num}`);
     }
     return romanNum;
 }
 
 function main12() {
-    const num = 1994;
+    const num = 589;
     console.log(intToRoman(num));
 }
 main12();
